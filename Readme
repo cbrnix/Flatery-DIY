@@ -1,1 +1,3 @@
 Everything for creating icons
+The original size is in the standards. Using a script, transform the finished icon into sizes 16, 22, 24, 48, 64.
+Recommended to optimize with svgcleaner
