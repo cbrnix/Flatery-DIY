@@ -1,0 +1,4 @@
+run (for 16,22,24,48 and 64 size):
+bash script.sh 16; bash script.sh 22; bash script.sh 48; bash script.sh 64;
+
+
